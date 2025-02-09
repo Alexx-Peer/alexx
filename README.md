@@ -1,6 +1,6 @@
 # npm alexx
- ### a lil package that tells you my name 
- 
+ ### a lil package that tells you my name
+
  to use: install and run with npx
 
  ```
